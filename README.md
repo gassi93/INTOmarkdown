@@ -11,13 +11,13 @@
 Uppsetningar gengu mjög vel. Ragnar bootaði ubuntu13 af usb eftir leiðbeiningum á myschool. Erlingur setti upp virtualbox og setti upp linux mint. Garðar setti upp virtualbox og installaði ubuntu.
 
 Screenshot - Garðar
-!(http://i.imgur.com/MK7tOAu.png)
+![alt tag](http://i.imgur.com/MK7tOAu.png)
 
 Screenshot - Ragnar
-!(http://i.imgur.com/eEhndpJ.jpg)
+![alt tag](http://i.imgur.com/eEhndpJ.jpg)
 
 Screenshot - Elli
-!(http://i.imgur.com/8v8XD6A.png)  
+![alt tag](http://i.imgur.com/8v8XD6A.png)  
 
 ## 2. Uppsetning á vim && git
 
