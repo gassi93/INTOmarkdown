@@ -39,9 +39,9 @@ Hér er listi yfir opinn hugbúnað sem við höfum á tölvunum okkar. Forritin
 
 <http://dev.chromium.org/developers/how-tos/get-the-code>
 
-<http://www.codeblocks.org/downlods/25>
+<http://www.codeblocks.org/downloads/25>
 
-<http://releases.mozilla.org/pub/mozilla.org/firefox/releases/>
+<https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives>
 
 
 
